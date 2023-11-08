@@ -149,7 +149,7 @@ p{
 
 @media (max-width:900px);{
     body{
-        min-width: 55%;
+        min-width: fit-content;
         font-size: 55%;
     }
 }
