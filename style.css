@@ -3,6 +3,10 @@ body {
     text-align: center;
     overflow-x: hidden;
 }
+
+html{
+    overflow-x:hidden;
+}
 .top-container{
     background-color:#e4f9f5;
     position: relative;
@@ -142,10 +146,5 @@ p{
     color: whitesmoke;
 
   }
-@media (max-width:600px){
-    body{
-        overflow-x: hidden;
-    }
-}
- 
+
  
