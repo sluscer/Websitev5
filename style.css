@@ -1,7 +1,7 @@
 body {
     margin: 0;
     text-align: center;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 .top-container{
     background-color:#e4f9f5;
