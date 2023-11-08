@@ -147,4 +147,10 @@ p{
 
   }
 
+@media (max-width:600px);{
+    body{
+        width: fit-content;
+    }
+}
+
  
