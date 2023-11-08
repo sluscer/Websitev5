@@ -1,7 +1,7 @@
 body {
     margin: 0;
     text-align: center;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 .top-container{
     background-color:#e4f9f5;
@@ -142,6 +142,10 @@ p{
     color: whitesmoke;
 
   }
-
+@media (max-width:600px){
+    body{
+        overflow-x: hidden;
+    }
+}
  
  
